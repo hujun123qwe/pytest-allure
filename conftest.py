@@ -6,7 +6,7 @@ pytest配置文件，有fixtures手脚架，有mark标记
 
 import pytest
 
-
+#手脚架要先声明清楚
 @pytest.fixture()
 def username():
     return "hujun"

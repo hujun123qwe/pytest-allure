@@ -6,7 +6,6 @@
 import pytest
 
 #this paramter is defined in someclass
-
 myname="hujun"
 
 
